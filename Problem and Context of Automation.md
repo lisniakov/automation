@@ -1,5 +1,7 @@
 # Problem and Context of Automation
 
+## Difficulties
+
 As with all topics, mine also has not only positive aspects, but I believe that identifying these problems is already half the way to solving them. For a better description and reader perception of this issue, I structure all the pros and cons in this topic point by point. First, I will talk about the difficulties in this area that I consider the main ones:
 
   - The difficulty of automating this process is that nowadays more and more manufacturers/suppliers/installers of equipment for this area appear every day, which complicates and facilitates the search at the same time. Expanding the choice is undoubtedly good because it is always nice to realize that there is something to give preference to and not just take what is left because there are no other options. Having looked at this same question from the other side, I can say that a large number of proposals are also not so clear because now you need to spend more time and resources on searches because a large number of proposals does not guarantee high quality. In order to sort a potential candidate, it will take a lot of time, which may not be available due to the urgency of the work.
