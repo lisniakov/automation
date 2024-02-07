@@ -9,8 +9,7 @@
 Adafruit_BME280 bme;
 PMS pms(Serial);
 
-float temperature, humidity;
-float pm05, pm1, pm5; // Variables to store particle measurements
+float temperature, humidity, pm05, pm1, pm5;
 
 const float MIN_TEMP = 19.0;
 const float MAX_TEMP = 23.0;
