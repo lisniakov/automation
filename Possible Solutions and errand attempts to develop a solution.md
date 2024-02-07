@@ -7,7 +7,7 @@ First of all, for my project concept, I decided to study the standards for clean
 
 [Table reference link](https://schillingengineering.de/en/media-library/cleanroom-classes-according-to-iso-14644-1)
 
-As you already understood from the table, the requirements for a clean room of this class are quite high. For example, a class 9 room is essentially an ordinary living space, while you can’t easily get into a class 7 room without special clothing and training on how to work in such a room. Also, in addition to the number of particles, it is very important to maintain a stable level of humidity and temperature conditions. For this class, the recommended temperature is 21+-2 degrees Celsius and a humidity level of 55-65%.
+As you already understood from the table, the requirements for a clean room of this class are quite high. For example, a class 9 room is essentially an ordinary living space, while you can’t easily get into a class 7 room without special clothing and training on how to work in such a room. Also, in addition to the number of particles, it is very important to maintain a stable level of humidity and temperature conditions. For this class, the recommended temperature is 21±2 degrees Celsius and a humidity level of 55-65%.
 
 ## Sensor Selection
 For this, I searched for suitable sensors and the following models turned out to be the most accessible to me: 
